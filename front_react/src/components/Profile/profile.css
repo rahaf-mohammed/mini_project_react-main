@@ -1,0 +1,14 @@
+/* في ملف CSS */
+.list-group-item:hover {
+    background-color: rgb(191, 28, 28);
+    color: white; /* تغيير لون النص ليكون أبيض عندما يتمرر المؤشر */
+  }
+  /* في ملف CSS */
+.link-wrapper a {
+  color: black; /* لون النص عند الحالة العادية */
+  text-decoration: none; /* إزالة التأثير الافتراضي لتحت خط النص */
+}
+
+.link-wrapper a:hover {
+  color: blue; /* تغيير لون النص عند تمرير المؤشر */
+}
